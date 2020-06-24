@@ -11,7 +11,9 @@ import Foundation
 
 //Create a ToDo class that has 2 properties… name and important - if you need a refresher on how to create a class and add properties, take a look back at this lesson
 
-class toDo {
+
+
+class ToDo {
     var name = ""
     var important = false
     
